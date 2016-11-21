@@ -10,3 +10,23 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+img{
+	width: 36.5%;
+	height:36.5%;
+}
+
+
+
+.left{
+	margin-top: 15px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+	float: left;
+}
+.right{
+	margin-left: 15px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	float: right;
+}
